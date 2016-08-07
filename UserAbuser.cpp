@@ -1,6 +1,5 @@
 
-//User Abuser3.0 Antonio "SirBothersome Alberto and "Ego Inc"- Text based game that insults the user
-//Based off of  Mark Lee and Dirk Henkemans "Three tests of Honor"  game and their "Simple Menu"
+//User Abuser3.0 SirBothersome and Ego Inc- Text based game that insults the user
 #include <iostream>
 #include <string>
 #include <cstdlib>
